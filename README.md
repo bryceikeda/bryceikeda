@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!
 
 <!--
 **bryceikeda/bryceikeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a graduate research assistant in IRON Lab at the UNC. 
+
+I received my M.S. and B.S. in Electrical and Computer Engineering from the University of Rochester. My current research interests revolve around Virtual, Augmented and Mixed Reality and Robots, a subfield of Human-Robot Interaction commonly refered to as VAM-HRI. 
+
+To see some of my work, check out my [website](https://bryceikeda.netlify.app/)!
