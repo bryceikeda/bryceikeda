@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a graduate research assistant in IRON Lab at the UNC. 
+I am a graduate research assistant in IRON Lab at the University of North Carolina, Chapel Hill. 
 
 I received my M.S. and B.S. in Electrical and Computer Engineering from the University of Rochester. My current research interests revolve around Virtual, Augmented and Mixed Reality and Robots, a subfield of Human-Robot Interaction commonly refered to as VAM-HRI. 
 
