@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Postdoctoral researcher at the Naval Research Laborator in the Intelligent Systems Section of the Navy Center for Applied Research and Artificial Intelligence.
+I am a Postdoctoral researcher at the Naval Research Laboratory in the Intelligent Systems Section of the Navy Center for Applied Research and Artificial Intelligence.
 
 To see some of my work, check out my [website](https://bryceikeda.com/)!
